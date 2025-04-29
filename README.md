@@ -14,7 +14,10 @@ A full-featured doctor appointment booking system built with **Next.js**, **Post
 - Mobile-responsive design with clean UI
 
 ### 🛠️ Admin Features
-- Add/edit/remove doctor profiles and schedules
+- View all appointments
+- Prevent double bookings and invalid times
+
+### 🛠 Doctor Features
 - View all appointments
 - Prevent double bookings and invalid times
 
